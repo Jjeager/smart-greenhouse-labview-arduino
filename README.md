@@ -1,6 +1,6 @@
-# Smart Greenhouse Automation System 🌿
+# Smart Greenhouse Automation System 
 
-![Proje Kapak Görseli veya Çalışan Sistemin Fotoğrafı](Docs_and_Images/sistem_fotografi.jpg)
+
 
 ##  Proje Hakkında
 Bu proje, çevre koşullarını optimize etmek amacıyla tasarlanmış otonom bir akıllı sera sistemidir. Sensörlerden alınan çevresel veriler (sıcaklık, nem, ışık vb.) Arduino aracılığıyla toplanır ve **LabVIEW 2026 Community Edition** kullanılarak geliştirilen kullanıcı arayüzünde gerçek zamanlı olarak izlenip kontrol edilir.
