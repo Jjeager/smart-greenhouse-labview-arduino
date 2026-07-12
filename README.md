@@ -36,10 +36,3 @@ Sistemin arka planında çalışan, veri işleme ve kontrol algoritmasını içe
 ### Devre Şeması
 Sensörlerin ve eyleyicilerin Arduino ile olan pin bağlantılarını gösteren şema.
 ![Devre Şeması](Docs_and_Images/devre_semasi.png)
-
-##  Kurulum ve Çalıştırma
-Bu projeyi kendi ortamınızda çalıştırmak için şu adımları izleyin:
-1. `Arduino_Code` klasöründeki `.ino` dosyasını Arduino IDE ile açın ve geliştirme kartınıza yükleyin.
-2. Sensör bağlantılarını yukarıdaki devre şemasına uygun olarak yapın.
-3. `LabVIEW_Files` klasöründeki ana `.vi` dosyasını LabVIEW 2026 üzerinden açın.
-4. LabVIEW ön panelinden Arduino'nun bağlı olduğu **COM portunu** seçin ve programı çalıştırın.
